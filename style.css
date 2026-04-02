@@ -64,7 +64,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin-top: 100px; /* to ensure content below the fixed header */
+    margin-top: 100px;
     text-align: center;
 }
 
