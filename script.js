@@ -2,9 +2,9 @@ let counter = 0;
 let coins = 0;
 let doubleClicks = false;
 let passiveIncome = false;
-const passiveIncomeTime = 15; // seconds
+const passiveIncomeTime = 15;
 let passiveIncomeInterval;
-let availableColors = ['white']; // White is available by default
+let availableColors = ['white'];
 let clickButtonColor = 'white';
 
 document.getElementById('clickButton').style.backgroundColor = clickButtonColor;
